@@ -1,0 +1,234 @@
+
+body{
+    font-family: 'Karla', sans-serif;
+    font-size: 1.2rem;
+    color:#40514E;
+}
+
+.first-container{
+    background-color: #FCF8E8;;
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+h1{
+    top: 30px;
+    font-family: 'Satisfy', cursive;
+    font-size: 5rem;
+    color: #DF7861;
+    line-height: 2;
+}
+
+h2{
+    font-size: 2rem;
+    color:#DF7861;
+    font-weight: normal;
+}
+
+p{
+    margin: 0;
+}
+
+.top-cloud{
+    width: 120px;
+    height: 70px;
+    position: absolute;
+    top: 80px;
+    right: 380px;
+}
+
+.bottom-cloud{
+    padding-top: 5px;
+    width: 120px;
+    height: 70px;
+    position: absolute;
+    left: 280px;
+
+}
+
+.forest{
+    width: 400px;
+}
+
+h3{
+    margin: 20px auto 20px auto;
+    font-family: 'Oswald', sans-serif;
+    color: #DF7861;
+    font-size: 1.7rem;
+}
+
+h1:hover,h2:hover,h3:hover{
+    color:#ECB390
+}
+
+.second-container{
+    background-color: #F9F7F7;
+    padding-top: 0;
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 40px;
+
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E8E8E8;
+    border-width: 7px;
+    width: 8%;
+  }
+
+.profile{
+    margin: 0 auto 50px auto;
+    width: 50%;
+    line-height: 1.7;
+}
+
+.yan-image{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+
+.skills{
+    margin: 60px auto 60px auto;
+    width: 50%;
+}
+
+.development-img{
+    float: left;
+    margin: auto 50px auto 20px;
+    width: 10%;
+}
+
+.top-skill{
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 3;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F4EEFF;
+}
+
+thead th:nth-child(1) {
+    width: 15%;
+}
+  
+thead th:nth-child(2) {
+    width: 45%;
+}
+  
+thead th:nth-child(3) {
+    width: 15%;
+}
+  
+thead th:nth-child(4) {
+    width: 25%;
+}
+
+th,td{
+    padding: 10px;
+}
+
+.education{
+    margin: 60px auto 60px auto;
+    width: 50%;
+    line-height: 1.6;
+}
+
+.first-h6{
+    margin-top: 0;
+    padding-top: 0;
+}
+
+h6{
+    font-size: 1.3rem;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color:#EA907A;
+}
+
+.edu-date{
+    color: #BBBFCA;
+}
+
+.employment{
+    margin: 60px auto 60px auto;
+    width: 50%;
+    line-height: 1.6;
+}
+
+.experience{
+    margin: 60px auto 60px auto;
+    width: 50%;
+    line-height: 1.6;
+}
+
+.email{
+    margin: 60px auto 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+h4{
+    font-size: 1.4rem;
+    color: #DF7861;
+}
+
+.third-container{
+    background-color: #ECB390;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+    color:#F4EEFF;
+    line-height: 3;
+    font-size: 0.8rem;
+    font-weight: light;
+}
+
+.contact-me{
+    width: 75%;
+    margin: 10px auto;
+}
+
+.btn {
+    background: #FBC687;
+    background-image: -webkit-linear-gradient(top, #FBC687, #EA907A);
+    background-image: -moz-linear-gradient(top, #FBC687, #EA907A);
+    background-image: -ms-linear-gradient(top, #FBC687, #EA907A);
+    background-image: -o-linear-gradient(top, #FBC687, #EA907A);
+    background-image: linear-gradient(to bottom, #FBC687, #EA907A);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Karla', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 0px;
+    text-decoration: none;
+    line-height: 7;
+  }
+  
+  .btn:hover {
+    background: #F4F7C5;
+    background-image: -webkit-linear-gradient(top, #F4F7C5, #FBC687);
+    background-image: -moz-linear-gradient(top, #F4F7C5, #FBC687);
+    background-image: -ms-linear-gradient(top, #F4F7C5, #FBC687);
+    background-image: -o-linear-gradient(top, #F4F7C5, #FBC687);
+    background-image: linear-gradient(to bottom, #F4F7C5, #FBC687);
+    text-decoration: none;
+  }
+
+.footer-link{
+    color:#DF7861;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin: auto 30px auto 30px;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color:#F4EEFF
+}
